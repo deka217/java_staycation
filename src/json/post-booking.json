@@ -1,0 +1,13 @@
+{
+    "duration": "2",
+    "price": "240",
+    "bookingDateStart": "new Date[]",
+    "bookingDateEnd": "new Date[]",
+    "firstName": "Serangga",
+    "lastName": "Hisap",
+    "emailAddress": "serangga@gmail.com",
+    "phoneNumber": "08975094759475",
+    "accountHolder": "Serangga Hisap",
+    "bankFormat": "BCA",
+    "proofPayment": "FileDta()"
+}

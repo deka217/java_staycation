@@ -1,0 +1,184 @@
+{
+    "hero": {
+        "cities": 50000,
+        "travelers": 180000,
+        "treasure": 22000
+    },
+    "mostPicked": [
+        {
+            "_id": "asd1293uasdads1",
+            "name": "Asep",
+            "type": "Apartement",
+            "imageUrl": "/images/shipballon.jpg",
+            "country": "Citayem",
+            "city": "Bojong Gede",
+            "price": "90",
+            "unit": "night"
+        },
+        {
+            "_id": "asd1293uasdads1",
+            "name": "Udin",
+            "type": "Hotel",
+            "imageUrl": "/images/shipballon2.jpg",
+            "country": "Cilebut",
+            "city": "Bogor",
+            "price": "90",
+            "unit": "night"
+        },
+        {
+            "_id": "asd1293uasdads1",
+            "name": "Eko",
+            "type": "House",
+            "imageUrl": "/images/shipballon3.jpg",
+            "country": "Cilebut",
+            "city": "Depok",
+            "price": "30",
+            "unit": "night"
+        },
+        {
+            "_id": "asd1293uasdads1",
+            "name": "Jamal",
+            "type": "Hotel",
+            "imageUrl": "/images/shipballon4.jpg",
+            "country": "Cilebut",
+            "city": "Bogor",
+            "price": "90",
+            "unit": "night"
+        },
+        {
+            "_id": "asd1293uasdads1",
+            "name": "Bewok",
+            "type": "House",
+            "imageUrl": "/images/Honda-CB650R_2019.jpg",
+            "country": "Cilebut",
+            "city": "Depok",
+            "price": "30",
+            "unit": "night"
+        }
+    ],
+    "categories": [
+        {
+            "_id": "asd1293uasdads1",
+            "name": "House with beauty backyard",
+            "items": [
+                {
+                    "_id":"asd1293uasdads1",
+                    "name": "PSW Antasari",
+                    "imageUrl": "/images/imagecategories1.jpg",
+                    "country": "South Korea",
+                    "city": "Seoul Flore",
+                    "isPopular": false
+                },
+                {
+                    "_id":"asd1293uasdads1",
+                    "name": "Kuretaksero",
+                    "imageUrl": "/images/imagecategories2.jpg",
+                    "country": "South Korea",
+                    "city": "Seoul Flore",
+                    "isPopular": false
+                },
+                {
+                    "_id":"asd1293uasdads1",
+                    "name": "Arya Duta",
+                    "imageUrl": "/images/shipballon3.jpg",
+                    "country": "South Korea",
+                    "city": "Seoul Flore",
+                    "isPopular": true
+                },
+                {
+                    "_id":"asd1293uasdads1",
+                    "name": "Grand Dhika",
+                    "imageUrl": "/images/imagecategories4.jpg",
+                    "country": "South Korea",
+                    "city": "Seoul Flore",
+                    "isPopular": false
+                }
+            ]
+        },
+        {
+            "_id": "asd1293uasdads1",
+            "name": "House with large living room",
+            "items": [
+                {
+                    "_id":"asd1293uasdads1",
+                    "name": "PSW Antasari",
+                    "imageUrl": "/images/imagecategories5.jpg",
+                    "country": "South Korea",
+                    "city": "Seoul Flore",
+                    "isPopular": true
+                },
+                {
+                    "_id":"asd1293uasdads1",
+                    "name": "Kuretaksero",
+                    "imageUrl": "/images/imagecategories6.jpg",
+                    "country": "South Korea",
+                    "city": "Seoul Flore",
+                    "isPopular": false
+                },
+                {
+                    "_id":"asd1293uasdads1",
+                    "name": "Arya Duta",
+                    "imageUrl": "/images/imagecategories7.jpg",
+                    "country": "South Korea",
+                    "city": "Seoul Flore",
+                    "isPopular": false
+                },
+                {
+                    "_id":"asd1293uasdads1",
+                    "name": "Grand Dhika",
+                    "imageUrl": "/images/imagecategories8.jpg",
+                    "country": "South Korea",
+                    "city": "Seoul Flore",
+                    "isPopular": false
+                }
+            ]
+        },
+        {
+            "_id":"asd1293uasdads1",
+            "name": "Apartments with kitchen set",
+            "items": [
+                {
+                    "_id":"asd1293uasdads1",
+                    "name": "PSW Antasari",
+                    "imageUrl": "/images/imagecategories9.jpg",
+                    "country": "South Korea",
+                    "city": "Seoul Flore",
+                    "isPopular": true
+                },
+                {
+                    "_id":"asd1293uasdads1",
+                    "name": "Kuretaksero",
+                    "imageUrl": "/images/imagecategories10.jpg",
+                    "country": "South Korea",
+                    "city": "Seoul Flore",
+                    "isPopular": false
+                },
+                {
+                    "_id":"asd1293uasdads1",
+                    "name": "Arya Duta",
+                    "imageUrl": "/images/imagecategories11.jpg",
+                    "country": "South Korea",
+                    "city": "Seoul Flore",
+                    "isPopular": false
+                },
+                {
+                    "_id":"asd1293uasdads1",
+                    "name": "Grand Dhika",
+                    "imageUrl": "/images/imagecategories12.jpg",
+                    "country": "South Korea",
+                    "city": "Seoul Flore",
+                    "isPopular": false
+                }
+            ]
+        }
+    ],
+    "testimonial": {
+        "_id":"asd1293uasdads1",
+        "imageUrl": "/images/happyfamily.jpg",
+        "name": "Happy Family",
+        "rate": 3.5,
+        "content": "As a wife I can pick a great trip with my own lovely family ... thank you!",
+        "familyName": "Ahnaf",
+        "familyOccupation": "UI Designer"
+    }
+}
