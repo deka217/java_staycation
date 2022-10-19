@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/java_staycation/static/css/main.a261ae11.css",
+    "main.js": "/java_staycation/static/js/main.64489268.js",
+    "static/js/787.7220a61f.chunk.js": "/java_staycation/static/js/787.7220a61f.chunk.js",
+    "static/media/image-hero.jpg": "/java_staycation/static/media/image-hero.5a9282488cb33ff5c709.jpg",
+    "static/media/completed.jpg": "/java_staycation/static/media/completed.a6502ee8f5a948610550.jpg",
+    "static/media/frame.jpg": "/java_staycation/static/media/frame.0e6ee882af14972f32e7.jpg",
+    "static/media/logo-bca.jpg": "/java_staycation/static/media/logo-bca.5239f10b46043163b8a0.jpg",
+    "static/media/image-hero-frame.jpg": "/java_staycation/static/media/image-hero-frame.18193fc649532ac4de06.jpg",
+    "static/media/logo-mandiri.jpg": "/java_staycation/static/media/logo-mandiri.d66f08f4c13f67b56cfe.jpg",
+    "static/media/travel-icon.svg": "/java_staycation/static/media/travel-icon.8d7362eb2cfc9956fca7c5b31f296d88.svg",
+    "static/media/cities-icon.svg": "/java_staycation/static/media/cities-icon.f98b428f5618aceac2132f24b548c960.svg",
+    "static/media/treasure-icon.svg": "/java_staycation/static/media/treasure-icon.c783901ad4656cc2c5f0ac9c5a441eec.svg",
+    "static/media/star.svg": "/java_staycation/static/media/star.ee9f416b2d2d3d87e213.svg",
+    "index.html": "/java_staycation/index.html",
+    "static/media/ic_calendar.svg": "/java_staycation/static/media/ic_calendar.376eb080d5d23429c8e774f9afd2b028.svg",
+    "main.a261ae11.css.map": "/java_staycation/static/css/main.a261ae11.css.map",
+    "main.64489268.js.map": "/java_staycation/static/js/main.64489268.js.map",
+    "787.7220a61f.chunk.js.map": "/java_staycation/static/js/787.7220a61f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a261ae11.css",
+    "static/js/main.64489268.js"
+  ]
+}
