@@ -1,7 +1,7 @@
 {
   "name": "java_staycation",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "homepage": "https://deka217.github.io/java_staycation/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
